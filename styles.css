@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+    background-color: lightgray;
+    border: 2px solid darkgray;
+    
+    }
+    
+    .paragraph{
+        color: rgb(64, 189, 64);
+        background-color: rgb(249, 249, 78);
+        border: 0.2 px solid rgb(24, 249, 78);}
+    p{
+        color: red;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    *{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
